@@ -1,0 +1,10 @@
+# Node.js
+/frontend/node_modules
+
+# Laravel
+/backend/vendor
+/backend/node_modules
+
+# Misc
+.env
+.DS_Store
